@@ -1,13 +1,13 @@
 [build]
-  base = "exampleSite"
-  command = "hugo --gc --themesDir ../.. -b $URL"
-  publish = "exampleSite/public"
+  base = ""
+  command = "hugo"
+  publish = "/public"
 
 [build.environment]
   HUGO_THEME = "repo"
 
 [context.deploy-preview]
-  command = "hugo --gc --themesDir ../.. -b $DEPLOY_PRIME_URL"
+  command = "hugo"
 
 [context.branch-deploy]
-  command = "hugo --gc --themesDir ../.. -b $DEPLOY_PRIME_URL"
+  command = "hugo"
