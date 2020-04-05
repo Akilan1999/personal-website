@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akilan Selvacoumar</title>
+    <link>https://akilan.io/</link>
+    <description>Recent content on Akilan Selvacoumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://akilan.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://akilan.io/about-hugo/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://akilan.io/about-hugo/</guid>
+      <description>I am a CS(Computer Science) student studying in Heriot Watt University (Dubai). My major areas of interest is on the implementation of Micro Grids and on how the energy economy could play a vital role in the future.
+My vision is to contribute as much I can to the scientific and future entrepreneur community regarding higher self sustainabilty.
+What I do  Run the University Tech Club with Mahmoud(Techincally the technical director) Try to listen in lectures Work on the IOE (Internet of Energy project)  </description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>https://akilan.io/posts/firstpost/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://akilan.io/posts/firstpost/</guid>
+      <description>How is this website build and the idea behind ? This websites runs using HUGO which static website engine. HUGO makes it really easy to add and remove content. I used a very simple and minimal template called hermit. As I learned from my friend Humaid it is more important to focus on content rather than some fancy JS animations.</description>
+    </item>
+    
+  </channel>
+</rss>

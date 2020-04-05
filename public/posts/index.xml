@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Akilan Selvacoumar</title>
+		<link>https://akilan.io/posts/</link>
+		<description>Recent content in Posts on Akilan Selvacoumar</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="https://akilan.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>First post</title>
+			<link>https://akilan.io/posts/firstpost/</link>
+			<pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://akilan.io/posts/firstpost/</guid>
+			<description>How is this website build and the idea behind ? This websites runs using HUGO which static website engine. HUGO makes it really easy to add and remove content. I used a very simple and minimal template called hermit. As I learned from my friend Humaid it is more important to focus on content rather than some fancy JS animations.</description>
+			<content type="html"><![CDATA[<h2 id="how-is-this-website-build-and-the-idea-behind-">How is this website build and the idea behind ?</h2>
+<p>This websites runs using HUGO which static website engine. HUGO makes it
+really easy to add and remove content. I used a very simple and minimal template
+called <a href="https://themes.gohugo.io/hermit/">hermit</a>. As I learned from my friend <a href="https://humaidq.ae">Humaid</a> it is more important to focus on content rather than some
+fancy JS animations.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
