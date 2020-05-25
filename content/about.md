@@ -12,6 +12,6 @@ date = "2020-04-05"
 
 ## What I do
 
-* Run the [University Tech Club](https://hwtech.club) with [Mahmoud]()(Techincally the technical director)
+* Run the [University Tech Club](https://hwtech.club) with Mahmoud(Techincally the technical director)
 * Try to listen in lectures
 * Work on the [IOE (Internet of Energy project)](http://ioe.techclub.dxbssh.xyz)
