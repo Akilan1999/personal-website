@@ -14,4 +14,4 @@ date = "2020-04-05"
 
 * Run the [University Tech Club](https://hwtech.club) with Mahmoud(Techincally the technical director)
 * Try to listen in lectures
-* Work on the [IOE (Internet of Energy project)](http://ioe.techclub.dxbssh.xyz)
+* Work on the [IOE (Internet of Energy project)](https://ioe.hwtech.club)
